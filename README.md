@@ -10,14 +10,14 @@ because I had to capture myself into coding.
 
  
 ## UX ##
-------------------------------------------------------------------
+
 Project Goals:
  * Present my professional profile 
  * Be able to get an intern-shift where I will be able to acquire more experience and  knowledge.
  * Find a job.
 
 ### Design Process ###
------------------------------------------------------------------
+
 ##### Strategy Plane: ####
 
 The main goal of the website is to create a good website portfolio which will help me to access to new professional opportunities.
@@ -35,8 +35,13 @@ The features of the website were developed based on user needs. In terms of what
 At this step of the designing process I have used Balsamiq wireframes to capture my overall idea and organization of the project.
 Also at this step of the process is when I had my first mentor session where I had a very constructive input and feedback from my mentor who helped me to have a different vision regarding my project. 
 
-WIREFRAMES IMG HERE.
+   <img src="assets/images/wf1.png" alt="wireframe1"/>
+   <img src="assets/images/wf2.png" alt="wireframe2"/> 
+   <img src="assets/images/wf3.png" alt="wireframe2"/>  
+   <img src="assets/images/wf4.png" alt="wireframe2"/>  
+   
 
+ 
 #### Surface Plane: ####
 
 At this stage of the process, I proceeded to start to design the website using Bootstrap. 
@@ -45,7 +50,6 @@ The typography used is from Google Fonts – Raleway [Google Fonts](https://font
 Colors used from the CSS3 palette color available at [W3Schools.com](https://www.w3schools.com/cssref/css_colors.asp)
 
 ## Features ##
------------------------------------------------------
 
 The website counts with four different and independant pages , in within we can find , Home, Resume, Projects and Contact:
 
@@ -73,7 +77,7 @@ Technologies Used:
     
 
 ## Testing ##
-------------------------------------------------------
+
 I have Validated the code using: 
  * HTML   [HTML-Validator](https://validator.w3.org/#validate_by_input)
  * CSS    [CSS-Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
@@ -88,7 +92,7 @@ I have also used the Inspect tool from Google Chrome to text the responsiveness 
 
 
 ## Deployment ## 
--------------------------------------------------------
+
 This project was entirely built in Gitpod and deployed in GitHub,
 
 Deployment steps:
@@ -100,6 +104,8 @@ Deployment steps:
 5. Select Master branch
 6. Validate selection.
 
+You can see the website [here](https://sarasanchezz.github.io/1MilestoneProject/)
+
 Steps to run the code locally:
 
 1. Open GitHub
@@ -108,10 +114,9 @@ Steps to run the code locally:
 4. Type 'git clone' at the terminal
 
 ## Credits ## 
-------------------------------------------------------
 
 ### Content ###
-- The content of the page is been written by me
+- The content of the page is been written by me and at the projects page is been copied from the projects structure and requirements, from the module materials.
 - There are some parts of the code taken from Bootstrap componenents and after have been adjusted and modified it 
  to my web needs as for example:
     - [Navbar](https://getbootstrap.com/docs/4.5/components/navbar/)
@@ -123,9 +128,13 @@ Steps to run the code locally:
 
 ### Acknowledgements ### 
 I  founded very helpful and inspirational this websites and videos:
-- [W3Schools.com](https://www.w3schools.com/cssref/css_colors.asp)
-- [MDB](https://mdbootstrap.com/)
+- [W3Schools.com](https://www.w3schools.com/cssref/css_colors.asp).
+- [MDB](https://mdbootstrap.com/).
 - [Designer-daily](https://www.designer-daily.com/portfolio-desig-10009)
 - How to use the Bootstrap 4 grid - Demo site by Anna Gilhespy [Video](https://www.youtube.com/watch?v=zDpCejbl1sU)
 - Bootstrap tutorial (Spanish) [video](https://www.youtube.com/watch?v=59pex8k8Xr8).
-- Website tutorial with bootstrap [Video](https://www.youtube.com/watch?v=9cKsq14Kfsw)
+- Website tutorial with bootstrap [Video](https://www.youtube.com/watch?v=9cKsq14Kfsw).
+- [Stackoverflow](https://stackoverflow.com/).
+- Slack Community. 
+- All the tutors who had assisted me during the process, the were all helpful and extremelly kind.
+- Mark Railton , my mentor, I don't have enough words to thank him all the support and patience.
