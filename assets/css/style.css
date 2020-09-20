@@ -186,3 +186,9 @@ li{
    color:#E9967A;
 
 }
+.fab{
+    color:#808080 
+}
+.fab:hover{
+    color: #E9967A;
+}
