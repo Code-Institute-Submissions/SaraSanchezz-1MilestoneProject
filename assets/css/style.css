@@ -152,8 +152,8 @@ li{
     font-display: block;
     font-size: 16px;
     text-align: left;
-    line-height: px;
-
+    line-height: 23px;
+}
 }
 .page-footer {
     background-color: #dcdcdc ;
@@ -165,7 +165,6 @@ li{
     position: relative;
     bottom: 0;
     left: 0;
-
 }
 .page-footer:hover {
     color:#E9967A;

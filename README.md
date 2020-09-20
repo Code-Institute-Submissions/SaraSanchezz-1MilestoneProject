@@ -35,10 +35,10 @@ The features of the website were developed based on user needs. In terms of what
 At this step of the designing process I have used Balsamiq wireframes to capture my overall idea and organization of the project.
 Also at this step of the process is when I had my first mentor session where I had a very constructive input and feedback from my mentor who helped me to have a different vision regarding my project. 
 
-   <img src="assets/images/wf1.png" alt="wireframe1"/>
-   <img src="assets/images/wf2.png" alt="wireframe2"/> 
-   <img src="assets/images/wf3.png" alt="wireframe2"/>  
-   <img src="assets/images/wf4.png" alt="wireframe2"/>  
+   <img src="assets/images/wf1.png" alt="wireframe1" width="400" height="400"/>
+   <img src="assets/images/wf2.png" alt="wireframe2" width="400" height="400"/> 
+   <img src="assets/images/wf3.png" alt="wireframe3" width="400" height="400"/>  
+   <img src="assets/images/wf4.png" alt="wireframe4" width="400" height="400"/>  
    
 
  
@@ -93,7 +93,7 @@ I have also used the Inspect tool from Google Chrome to text the responsiveness 
 
 ## Deployment ## 
 
-This project was entirely built in Gitpod and deployed in GitHub,
+This project was entirely built in Gitpod and deployed in GitHub. 
 
 Deployment steps:
 
@@ -103,15 +103,18 @@ Deployment steps:
 4. Settings
 5. Select Master branch
 6. Validate selection.
+7. The ulr of the website is displayed.
 
 You can see the website [here](https://sarasanchezz.github.io/1MilestoneProject/)
 
 Steps to run the code locally:
 
 1. Open GitHub
-2. Desired repository
-3. Clone or download 
-4. Type 'git clone' at the terminal
+2. Select desired repository
+3. Click on clone or download .
+4. Start your IDE.
+5. Open the terminal.
+6. Type git clone followed by the code of the repository at the terminal
 
 ## Credits ## 
 
