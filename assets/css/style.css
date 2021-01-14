@@ -1,6 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Raleway100,200,300,400,500,600,700&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&display=swap');
-
+/* Text */
 h1 {
     font-size: 700px;
     font-weight: 700;
@@ -54,7 +54,23 @@ h6 {
     justify-content: center;
     letter-spacing: 1px;
 }
+li{
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 34px;
+}
 
+.card-text{
+    font-size: 16px;
+    text-align: left;
+    line-height: 23px;
+}
+.contact{
+    font-size: 18px;
+}
+.form{
+   text-align: center;
+}   
 
 .topmargin-xs { margin-top: 20px;
 
@@ -66,8 +82,7 @@ h6 {
 
 }
 
-
-
+/* Navbar */
 .nav-link {
     color: #808080;
     font-size: 25px;
@@ -90,7 +105,7 @@ h6 {
     outline: none;
     
 }
-
+/*Background index.html*/
 #hero {
     background: linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -101,13 +116,13 @@ h6 {
     min-height: 800px;
     color: #fafafa;
  }
-
+/*Image resume.html*/
  .resume-image{
      display: block;
      margin-left: auto;
      margin-right: auto;
  }
-
+/* resume.html style*/
  .content-center {
      max-width: 800px;
      margin: 180px auto 60px auto;
@@ -115,45 +130,22 @@ h6 {
      line-height: 2px;
      
 }
- 
+/*Responsiveness*/
 @media (max-width: 575.98px) { 
     h1{
         font-size: 40px;
         line-height: normal;
     }
 }
-
-.contact{
-    font-size: 18px;
-}
-
-.form{
-   text-align: center;
-
-}
+/*Card layout style*/
 .card{
     background-color:  #dcdcdc;
 }
-
+/*progress bar style*/
 .progress-bar {
     background-color: #708090;
 }
-.fa {
-    color: #E9967A;
-}
-
-li{
-    font-size: 20px;
-    font-family: 'Raleway', sans-serif;
-    line-height: 34px;
-}
-
-.card-text{
-    font-size: 16px;
-    text-align: left;
-    line-height: 23px;
-}
-
+/*footer style*/
 .page-footer {
     background-color: #dcdcdc ;
     color: #808080;
@@ -184,9 +176,13 @@ li{
    color:#E9967A;
 
 }
+/* icons style*/
 .fab{
     color:#808080 
 }
 .fab:hover{
+    color: #E9967A;
+}
+.fa {
     color: #E9967A;
 }
