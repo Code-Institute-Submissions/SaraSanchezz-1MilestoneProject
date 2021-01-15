@@ -89,14 +89,14 @@ Tested the website in different browsers:
 * Safary
     
 I have also used the Inspect tool from Google Chrome to testt the responsiveness of the website in different size devices and 
-manually tested in iPhone 6, 7 Plus , 8 , xs, 12 pro, MacBoock Pro 15", Asus VivoBook 14.5", HP Envy 21" , Ipad 3 and Ipad Pro 5.
+manually tested in iPhone 6, 7 Plus, 8, xs, 12 pro, MacBook Pro 15", Asus VivoBook 14.5", HP Envy 21" , Ipad 3 and Ipad Pro 5.
 
 
 * Navbar from medium and small devices converts into a dropdown menu. 
-* The card containers from Bootstrap that have been used to organize de layout of the resume, projects and contact pages
-  from medium and small devices screen sizes the number of columns used per card is larger in a way it only shows one card at
+* The card containers from Bootstrap that have been used to organize the layout of the resume, projects and contact pages,
+  from medium to small  screen sizes, the number of columns used per card is larger in a way it only shows one card at
   a time.
-* Footer text and Menu items are hooverable changing color.
+* Footer text and Menu items when hoovering change color.
 * The send button on the contact page is linked to an email extension.
 
 
