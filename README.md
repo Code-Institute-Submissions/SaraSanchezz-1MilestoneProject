@@ -79,8 +79,8 @@ Technologies Used:
 ## Testing ##
 
 I have Validated the code using: 
- * HTML   [HTML-Validator](https://validator.w3.org/#validate_by_input)
- * CSS    [CSS-Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+ * HTML   [HTML-Validator](https://validator.w3.org/#validate_by_input) - No errors found.
+ * CSS    [CSS-Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors found.
 
 Tested the website in different browsers:    
 * Chrome
@@ -88,7 +88,16 @@ Tested the website in different browsers:
 * Mozilla Firefox 
 * Safary
     
-I have also used the Inspect tool from Google Chrome to text the responsiveness of the website in different size devices. 
+I have also used the Inspect tool from Google Chrome to testt the responsiveness of the website in different size devices and 
+manually tested in iPhone 6, 7 Plus , 8 , xs, 12 pro, MacBoock Pro 15", Asus VivoBook 14.5", HP Envy 21" , Ipad 3 and Ipad Pro 5.
+
+
+* Navbar from medium and small devices converts into a dropdown menu. 
+* The card containers from Bootstrap that have been used to organize de layout of the resume, projects and contact pages
+  from medium and small devices screen sizes the number of columns used per card is larger in a way it only shows one card at
+  a time.
+* Footer text and Menu items are hooverable changing color.
+* The send button on the contact page is linked to an email extension.
 
 
 ## Deployment ## 
